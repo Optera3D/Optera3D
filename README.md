@@ -1,6 +1,6 @@
 👋 Hello! You are browsing the files of Optera3D
 
-We are a small group of 3D printing enthusiast in Europe, who decided to build new stuff. Filters, filament dryers, printers, and so on. 
+We are a small group of 3D printing enthusiast from Europe, who decided to build new stuff. Filters, filament dryers, printers, and so on. 
 
 We will publish firmwares and other code, 3D models, assembly guides, and user manuals here. 
 
